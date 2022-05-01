@@ -113,6 +113,13 @@ input[type="text"],input[type="number"]{
     outline: 0;
 }
 
+.btn:hover{
+    background: #e0e0e0;
+    border-radius: 10px;
+    color: #0f0f0f;
+    box-shadow: inset -20px 20px 60px #c4c4c4, inset 20px -20px 60px #c8c8c8;
+}
+
 .list{
     list-style-type: none;
     padding: 0;
